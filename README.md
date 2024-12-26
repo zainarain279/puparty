@@ -18,6 +18,9 @@ pkg install nodejs
    git https://github.com/zainarain279/puparty.git
    ```
    ```bash
+pkg install git
+```
+```bash
    cd puparty
    ```
 3. **ADD ACCOUNTS**
