@@ -15,7 +15,7 @@ pkg update && pkg upgrade
 pkg install nodejs
 ```
    ```bash
-   git https://github.com/zainarain279/puparty.git
+   git clone https://github.com/zainarain279/puparty.git
    ```
    ```bash
 pkg install git
