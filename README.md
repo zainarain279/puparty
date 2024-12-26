@@ -17,6 +17,9 @@ pkg install nodejs
    ```bash
    git clone https://github.com/zainarain279/puparty.git
    ```
+```bash
+npm install
+```
    ```bash
 pkg install git
 ```
